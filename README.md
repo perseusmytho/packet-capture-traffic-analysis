@@ -23,13 +23,6 @@ This project focuses on **packet capture and traffic analysis** using **Wireshar
 
 📄 **[Download Full Report (PDF)](https://github.com/user-attachments/files/18663150/Performing.Packet.Capture.and.Traffic.Analysis.4e.-.Marc.Corona.pdf)**  
 
-📂 **Captured Traffic & Screenshots**:
-- `icmp_traffic.pcap` – ICMP packet analysis  
-- `ssh_traffic.pcap` – SSH encrypted session capture  
-- `ftp_vs_sftp.pcap` – Comparison of FTP and SFTP authentication  
-- `wlan_handshake.pcap` – Captured WPA2 4-way handshake  
-- `deauth_attack.pcap` – Deauthentication attack traffic  
-
 <h2>✅ Key Takeaways & Security Implications</h2>
 
 🔹 **Plain-text protocols (FTP) expose credentials and should be replaced with secure alternatives (SFTP).**  
